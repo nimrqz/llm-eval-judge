@@ -1,0 +1,9 @@
+{
+  "name": "Respostas de suporte ao cliente",
+  "criteria": [
+    {"name": "correção", "description": "As informações estão corretas e sem invenções.", "weight": 3},
+    {"name": "completude", "description": "Responde todos os pontos da pergunta.", "weight": 2},
+    {"name": "clareza", "description": "Texto claro, objetivo e bem organizado.", "weight": 1},
+    {"name": "tom", "description": "Tom cordial e profissional, sem rispidez.", "weight": 1}
+  ]
+}
